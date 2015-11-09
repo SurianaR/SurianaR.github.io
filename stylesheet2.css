@@ -1,0 +1,41 @@
+#Navigation {
+	text-align: center;
+	font-size: 50px;
+	text-decoration: none;
+	font-family: 'Poiret One', cursive;
+  margin: -20px;
+}
+a:link, a:visited{
+	text-decoration: none;
+	color: inherit;
+	text-shadow: 2px 2px #FFA3FF;
+}
+
+a:hover{
+	color: #69FF69;
+}
+#c {
+font-family: 'Pacifico', cursive;
+font-size: 50px;
+text-align: center;
+margin-top: -10px;
+}
+
+div {
+
+	  box-shadow: 20px 20px #888888;
+    width: 800px;
+    padding: 25px;
+    border: 15px;
+		border-style: solid;
+	  border-color: #8DE2FF;
+		text-shadow: left;
+    margin: 225px;
+    font-family: 'PT Sans Narrow', sans-serif;
+		font-size: 30px;
+}
+
+#p {
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+}
