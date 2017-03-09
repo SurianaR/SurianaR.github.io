@@ -96,8 +96,9 @@ ul {
     list-style-type: none;
     margin: 100px;
     padding: 50px;
+    font-size: 20px;
     overflow: hidden;
-		font-family: cursive;
+	font-family: cursive;
 }
 
 li {
