@@ -96,9 +96,12 @@ ul {
     list-style-type: none;
     margin: 100px;
     padding: 50px;
-    font-size: 20px;
     overflow: hidden;
 	font-family: cursive;
+}
+
+.small-2.large-4 columns.ul{
+	    font-size: 20px;
 }
 
 li {
